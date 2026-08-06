@@ -148,9 +148,9 @@
 37.230.192.51 voice-proxy.www.deepl.com
 
 45.155.204.190 ita-app.kef.free.deepl.com
-#45.155.204.190 ingest.de.sentry.io
-#45.155.204.190 featureassets.org
-#45.155.204.190 prodregistryv2.org
+# 45.155.204.190 ingest.de.sentry.io
+# 45.155.204.190 featureassets.org
+# 45.155.204.190 prodregistryv2.org
 
 # Deezer
 45.155.204.190 deezer.com
